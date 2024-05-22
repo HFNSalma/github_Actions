@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TP2_1</string>
+    <string name="bTettiqu"> Salut </string>
+    <string name="eTlabel"> Name </string>
+    <string name="tvNameTxt"> Enter your name</string>
+    <string name="hello_txt"> accueillir </string>
+    <string name="txtsalut">Hello!</string>
+    <string name="txtsalut1">Hello</string>
+</resources>
+
+
